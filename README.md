@@ -1,5 +1,7 @@
 jQuery Autotab
 ==============
+[![CDNJS](https://img.shields.io/cdnjs/v/jquery-autotab.svg)](https://cdnjs.com/libraries/jquery-autotab)
+
 Autotab is a jQuery plugin that provides auto tabbing and filtering on text fields in a form. Once the maximum number of characters has been reached within a text field, the focus is automatically set to a defined element. Likewise, clearing out the text field's content by pressing backspace eventually places the focus on a previous element.
 
 
